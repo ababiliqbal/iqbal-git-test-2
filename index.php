@@ -12,6 +12,12 @@
     <h1>Coba Git Remote</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore nam, veniam eveniet aperiam alias labore vel cumque quidem perferendis aut repellendus sint, velit nulla at in ea aliquid fugiat perspiciatis!</p>
 
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+    </ul>
+
 </body>
 
 </html>
